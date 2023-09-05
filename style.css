@@ -115,3 +115,18 @@ svg{
 .c-item{
     height: 300px;
 }
+
+.service-list{
+    padding: 10px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    text-align: left;
+    padding: 8px;
+  }
